@@ -1,7 +1,7 @@
 # Spring Data Redis
 
 <p>
-	This repository contains Redis implementation with SpringBoot 3.0
+	This repository contains the implementation of Spring Data Redis
 </p>
 
 
@@ -16,7 +16,7 @@
 
 
 <p> 
-	checking in redis cli - <br/>
+	checking the cache in Redis CLI - <br/>
 	1. to list all the keys -
 	command :   keys *
 	output  : 	"student::1"
@@ -81,6 +81,3 @@
 	DELETE : http://localhost:8080/student/3
 </p>
 <br/>
-
-
-
