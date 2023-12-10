@@ -1,4 +1,4 @@
-# Spring Boot 3.0 with JWT
+# Spring Data Redis
 
 <p>
 	This repository contains Redis implementation with SpringBoot 3.0
